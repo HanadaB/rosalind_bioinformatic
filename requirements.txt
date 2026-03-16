@@ -1,0 +1,6 @@
+biopython
+pandas
+requests
+numpy
+pytest
+
