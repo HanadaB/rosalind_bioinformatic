@@ -10,7 +10,4 @@ Website: https://rosalind.info
 - Bioinformatics algorithms
 
 ## Language
-Most solutions are implemented in Python.
-
-## Purpose
-This repository serves as a personal collection of solutions while learning bioinformatics algorithms and computational biology.
+Python
