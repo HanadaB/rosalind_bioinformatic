@@ -1,5 +1,7 @@
 """Fibonacci sequence """
+from functools import lru_cache
 
+@lru_cache(maxsize=None)
 def rabbits(n: int , k: int) -> int:
     if n == 1 or n == 2  :
         return 1
